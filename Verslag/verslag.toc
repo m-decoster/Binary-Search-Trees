@@ -1,0 +1,23 @@
+\select@language {dutch}
+\contentsline {section}{\numberline {1}Bespreking van de verschillende implementaties}{1}
+\contentsline {subsection}{\numberline {1.1}Hulpklassen}{1}
+\contentsline {subsection}{\numberline {1.2}Zelforganiserende zoekbomen}{1}
+\contentsline {subsubsection}{\numberline {1.2.1}Sbst1 - Semi-splay}{1}
+\contentsline {paragraph}{Implementatiedetails}{1}
+\contentsline {paragraph}{Correctheidstests}{2}
+\contentsline {paragraph}{Tijdsmetingen en complexiteit}{2}
+\contentsline {subsection}{\numberline {1.3}Gewone binaire zoekbomen}{2}
+\contentsline {subsubsection}{\numberline {1.3.1}Obst1 - niet-geoptimaliseerde versie}{2}
+\contentsline {paragraph}{Implementatiedetails}{2}
+\contentsline {paragraph}{Correctheidstests}{3}
+\contentsline {paragraph}{Tijdsmetingen en complexiteit}{3}
+\contentsline {subsubsection}{\numberline {1.3.2}Obst2 - geoptimaliseerde versie}{4}
+\contentsline {paragraph}{Implementatiedetails}{4}
+\contentsline {paragraph}{Correctheidstests}{5}
+\contentsline {paragraph}{Tijdsmetingen en complexiteit}{5}
+\contentsline {section}{\numberline {2}Vergelijkingen tussen verschillende zoekbomen}{5}
+\contentsline {subsection}{\numberline {2.1}Sbst1 versus Obst: Add en contains}{5}
+\contentsline {subsection}{\numberline {2.2}Obst1 versus Obst2: Optimize}{6}
+\contentsline {section}{\numberline {3}Theoretische vragen}{6}
+\contentsline {subsection}{\numberline {3.1}Vraag 1}{6}
+\contentsline {subsection}{\numberline {3.2}Vraag 2}{7}
